@@ -19,6 +19,7 @@
 Algo variable es algo que cambia. Operaciones sobre las variables:
 ### 2.1.1. Entrada (input)
 Preguntar: Obtener los datos
+
     - (e.g.) en qué hotel me voy a hospedar?
     - cuánto dinero tengo?
     - cuántas personas van a viajar?
