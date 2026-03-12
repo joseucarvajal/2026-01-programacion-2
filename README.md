@@ -24,7 +24,7 @@ Preguntar: Obtener los datos
     - cuántas personas van a viajar?
     - Yo voy a viajar?
 ### 2.1.2. Salida (output)
-Resultados: Algo para mostrar
+Informar los Resultados: Algo para mostrar
     - El hotel en el que nos vamos a hospedar es el Hotel Primavera
     - Tengo 5000 USD
     - Van a viajar 3 personas
