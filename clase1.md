@@ -46,4 +46,8 @@ https://www.youtube.com/watch?v=M9EuntHcQVo
 
 ## 4. Crear un nuevo repositorio
 
+# Reglas para entregar los trabajos y projectos
+# 1. Se debe crear un repositorio por cada proyecto de forma individual.
+Estos repositorios deben ser creados de forma individual, es decir, cada estudiante debe crear sus repositorios, y siempre va a ser un repositorio diferente por cada trabajo
+
 
