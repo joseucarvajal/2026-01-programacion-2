@@ -48,6 +48,8 @@ https://www.youtube.com/watch?v=M9EuntHcQVo
 
 # Reglas para entregar los trabajos y projectos
 # 1. Se debe crear un repositorio por cada proyecto de forma individual.
-Estos repositorios deben ser creados de forma individual, es decir, cada estudiante debe crear sus repositorios, y siempre va a ser un repositorio diferente por cada trabajo
+## 1.0. Todos los trabajos se deben crear y entregar en GitHub, dentro de la fecha de entrega estipulada para ese trabajo o proyecto
+## 1.1. Estos repositorios deben ser creados de forma individual, es decir, cada estudiante debe crear sus repositorios, y siempre va a ser un repositorio diferente por cada trabajo
+## 1.2. Una vez subido el trabajo, NO se le pueden hacer cambios después de la fecha máxima de entrega. De lo contrario, será una mala nota
 
 
