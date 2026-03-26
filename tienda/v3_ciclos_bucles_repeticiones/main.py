@@ -5,8 +5,12 @@ Version: v3
 Que incluye:
     - Ciclos, repeticiones, bucles
 
-Qué problemas tiene esta versión (v1): BUGS
-    1. 
+Qué problemas tiene esta versión (v3): BUGS
+    10. El nombre del producto acepta más de 20 caracteres, lo cual puede ser un problema de seguridad. Se soluciona en la versión 4
+        - El nombre del producto debe tener MÁXIMO 20 caracteres
+    11. El sistema permita comprar SOLAMENTE 1 producto. Deberían ser la cantidad de productos que el cliente quiera comprar. 
+        El cliente debería poder comprar N productos
+        Se soluciona en la versión 4
 '''
 
 el_nombre_tiene_error = True

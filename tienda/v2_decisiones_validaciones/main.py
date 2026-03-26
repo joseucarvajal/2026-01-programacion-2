@@ -5,8 +5,8 @@ Version: v2
 Que incluye:
     - Decisiones, validaciones
 
-Qué problemas tiene esta versión (v1): BUGS
-    1. El trabajo se puede perder, cuando se ingresa mal un valor, el programa termina. El programa no debería terminar, sino que debería REPETIR hasta
+Qué problemas tiene esta versión (v2): BUGS
+    9. El trabajo se puede perder, cuando se ingresa mal un valor, el programa termina. El programa no debería terminar, sino que debería REPETIR hasta
     que el valor mal ingresado se ingrese bien. CICLOS (while - for): Se resuelve en la v3
 '''
 
