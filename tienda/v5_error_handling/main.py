@@ -6,6 +6,7 @@ Que incluye:
     - Se resuelven los BUGS 3 y 4, validando que los valores sean numéricos
 
 Qué problemas tiene esta versión (v5): BUGS
+    - No permite realizar cálculos en el futuro ni agregar más productos, ni eliminar productos
 
 '''
 
